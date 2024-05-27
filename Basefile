@@ -31,6 +31,7 @@ choco install keepass.install -y
 choco install everything -y
 choco install greenshot -y
 choco install audacity -y
+choco install yt-dlp
 
 
 choco install advanced-ip-scanner -y
